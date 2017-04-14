@@ -1,5 +1,5 @@
 # Ceres
-###### A lighthouse in the blinkenlichten ocean.
+###### *A lighthouse in the blinkenlichten ocean.*
 
 This is a guideline about how to turn ordinary humans into tech superheroes.
 
